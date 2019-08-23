@@ -1,7 +1,7 @@
 # This is a test portfolio
 This is my portfoliio
 
-#More randomness
-Haiku
-Roku
-Dooku
+## More randomness
+ - Haiku
+ - Roku
+ - Dooku
